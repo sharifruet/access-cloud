@@ -1,0 +1,6 @@
+[2019-08-07 15:52:03][Error]The string was not recognized as a valid DateTime. There is an unknown word starting at index 0.
+[2019-08-07 15:52:13][Error]The string was not recognized as a valid DateTime. There is an unknown word starting at index 0.
+[2019-08-07 15:55:10][Error]Unexpected character encountered while parsing value: F. Path 'devinfo.firmware', line 1, position 291.
+[2019-08-07 15:55:20][Error]Unexpected character encountered while parsing value: F. Path 'devinfo.firmware', line 1, position 291.
+[2019-08-07 16:00:00][Error]The string was not recognized as a valid DateTime. There is an unknown word starting at index 0.
+[2019-08-07 16:00:10][Error]The string was not recognized as a valid DateTime. There is an unknown word starting at index 0.

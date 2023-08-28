@@ -1,0 +1,4 @@
+System.Net.Sockets Verbose: 0 : [12104] Socket#2383799::Socket(AddressFamily#2)
+System.Net.Sockets Verbose: 0 : [12104] Exiting Socket#2383799::Socket() 
+System.Net.Sockets Error: 0 : [12104] Socket#2383799::UpdateStatusAfterSocketError() - Fault
+System.Net.Sockets Error: 0 : [12104] Socket#2383799::IOControl - 系统检测到在一个调用中尝试使用指针参数时的无效指针地址。 中的异常。

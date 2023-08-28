@@ -1,0 +1,114 @@
+E:\websocket\CloudDemo\bin\Debug\CloudDemo.exe.config
+E:\websocket\CloudDemo\bin\Debug\CloudDemo.exe
+E:\websocket\CloudDemo\bin\Debug\CloudDemo.pdb
+E:\websocket\CloudDemo\bin\Debug\Newtonsoft.Json.dll
+E:\websocket\CloudDemo\bin\Debug\SuperSocket.Common.dll
+E:\websocket\CloudDemo\bin\Debug\SuperSocket.Facility.dll
+E:\websocket\CloudDemo\bin\Debug\SuperSocket.SocketBase.dll
+E:\websocket\CloudDemo\bin\Debug\SuperSocket.SocketEngine.dll
+E:\websocket\CloudDemo\bin\Debug\SuperWebSocket.dll
+E:\websocket\CloudDemo\bin\Debug\System.Data.SQLite.dll
+E:\websocket\CloudDemo\bin\Debug\log4net.dll
+E:\websocket\CloudDemo\obj\x86\Debug\CloudDemo.ProjectInstaller.resources
+E:\websocket\CloudDemo\obj\x86\Debug\CloudDemo.csproj.GenerateResource.Cache
+E:\websocket\CloudDemo\obj\x86\Debug\CloudDemo.exe
+E:\websocket\CloudDemo\obj\x86\Debug\CloudDemo.pdb
+D:\softproject\websocket\CloudDemo\bin\Debug\CloudDemo.exe.config
+D:\softproject\websocket\CloudDemo\bin\Debug\CloudDemo.exe
+D:\softproject\websocket\CloudDemo\bin\Debug\CloudDemo.pdb
+D:\softproject\websocket\CloudDemo\bin\Debug\Newtonsoft.Json.dll
+D:\softproject\websocket\CloudDemo\bin\Debug\SuperSocket.Common.dll
+D:\softproject\websocket\CloudDemo\bin\Debug\SuperSocket.Facility.dll
+D:\softproject\websocket\CloudDemo\bin\Debug\SuperSocket.SocketBase.dll
+D:\softproject\websocket\CloudDemo\bin\Debug\SuperSocket.SocketEngine.dll
+D:\softproject\websocket\CloudDemo\bin\Debug\SuperWebSocket.dll
+D:\softproject\websocket\CloudDemo\bin\Debug\System.Data.SQLite.dll
+D:\softproject\websocket\CloudDemo\bin\Debug\log4net.dll
+D:\softproject\websocket\CloudDemo\obj\x86\Debug\CloudDemo.ProjectInstaller.resources
+D:\softproject\websocket\CloudDemo\obj\x86\Debug\CloudDemo.csproj.GenerateResource.Cache
+D:\softproject\websocket\CloudDemo\obj\x86\Debug\CloudDemo.exe
+D:\softproject\websocket\CloudDemo\obj\x86\Debug\CloudDemo.pdb
+D:\softproject\websocket\CloudDemo\obj\x86\Debug\CloudDemo.csprojResolveAssemblyReference.cache
+C:\DEMO\cloud sdk v2.2\CloudDemo\bin\Debug\CloudDemo.exe.config
+C:\DEMO\cloud sdk v2.2\CloudDemo\obj\x86\Debug\CloudDemo.exe
+C:\DEMO\cloud sdk v2.2\CloudDemo\obj\x86\Debug\CloudDemo.pdb
+C:\DEMO1\c#cloud sdk\cloud sdk v2.2\CloudDemo\bin\Debug\CloudDemo.exe.config
+C:\DEMO1\c#cloud sdk\cloud sdk v2.2\CloudDemo\obj\x86\Debug\CloudDemo.exe
+C:\DEMO1\c#cloud sdk\cloud sdk v2.2\CloudDemo\obj\x86\Debug\CloudDemo.pdb
+C:\DEMO1\c#cloud sdk\cloud sdk v2.2\CloudDemo\bin\Debug\CloudDemo.exe
+C:\DEMO1\c#cloud sdk\cloud sdk v2.2\CloudDemo\bin\Debug\CloudDemo.pdb
+C:\DEMO1\c#cloud sdk\cloud sdk v2.2\CloudDemo\bin\Debug\Newtonsoft.Json.dll
+C:\DEMO1\c#cloud sdk\cloud sdk v2.2\CloudDemo\bin\Debug\SuperSocket.Common.dll
+C:\DEMO1\c#cloud sdk\cloud sdk v2.2\CloudDemo\bin\Debug\SuperSocket.Facility.dll
+C:\DEMO1\c#cloud sdk\cloud sdk v2.2\CloudDemo\bin\Debug\SuperSocket.SocketBase.dll
+C:\DEMO1\c#cloud sdk\cloud sdk v2.2\CloudDemo\bin\Debug\SuperSocket.SocketEngine.dll
+C:\DEMO1\c#cloud sdk\cloud sdk v2.2\CloudDemo\bin\Debug\SuperWebSocket.dll
+C:\DEMO1\c#cloud sdk\cloud sdk v2.2\CloudDemo\bin\Debug\System.Data.SQLite.dll
+C:\DEMO1\c#cloud sdk\cloud sdk v2.2\CloudDemo\bin\Debug\log4net.dll
+C:\DEMO1\c#cloud sdk\cloud sdk v2.2\CloudDemo\obj\x86\Debug\CloudDemo.csprojResolveAssemblyReference.cache
+C:\DEMO1\c#cloud sdk\cloud sdk v2.2\CloudDemo\obj\x86\Debug\CloudDemo.ProjectInstaller.resources
+C:\DEMO1\c#cloud sdk\cloud sdk v2.2\CloudDemo\obj\x86\Debug\CloudDemo.csproj.GenerateResource.Cache
+C:\testdemo\c#cloud sdk\cloud sdk v2.2\CloudDemo\bin\Debug\CloudDemo.exe.config
+C:\testdemo\c#cloud sdk\cloud sdk v2.2\CloudDemo\obj\x86\Debug\CloudDemo.exe
+C:\testdemo\c#cloud sdk\cloud sdk v2.2\CloudDemo\obj\x86\Debug\CloudDemo.pdb
+C:\testdemo\c#cloud sdk\cloud sdk v2.2\CloudDemo\bin\Debug\CloudDemo.exe
+C:\testdemo\c#cloud sdk\cloud sdk v2.2\CloudDemo\bin\Debug\CloudDemo.pdb
+C:\testdemo\c#cloud sdk\cloud sdk v2.2\CloudDemo\bin\Debug\Newtonsoft.Json.dll
+C:\testdemo\c#cloud sdk\cloud sdk v2.2\CloudDemo\bin\Debug\SuperSocket.Common.dll
+C:\testdemo\c#cloud sdk\cloud sdk v2.2\CloudDemo\bin\Debug\SuperSocket.Facility.dll
+C:\testdemo\c#cloud sdk\cloud sdk v2.2\CloudDemo\bin\Debug\SuperSocket.SocketBase.dll
+C:\testdemo\c#cloud sdk\cloud sdk v2.2\CloudDemo\bin\Debug\SuperSocket.SocketEngine.dll
+C:\testdemo\c#cloud sdk\cloud sdk v2.2\CloudDemo\bin\Debug\SuperWebSocket.dll
+C:\testdemo\c#cloud sdk\cloud sdk v2.2\CloudDemo\bin\Debug\System.Data.SQLite.dll
+C:\testdemo\c#cloud sdk\cloud sdk v2.2\CloudDemo\bin\Debug\log4net.dll
+C:\testdemo\c#cloud sdk\cloud sdk v2.2\CloudDemo\obj\x86\Debug\CloudDemo.ProjectInstaller.resources
+C:\testdemo\c#cloud sdk\cloud sdk v2.2\CloudDemo\obj\x86\Debug\CloudDemo.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\c#cloud sdk\c#cloud sdk\cloud sdk v2.2\CloudDemo\bin\Debug\CloudDemo.exe.config
+C:\Users\Administrator\Desktop\c#cloud sdk\c#cloud sdk\cloud sdk v2.2\CloudDemo\bin\Debug\CloudDemo.exe
+C:\Users\Administrator\Desktop\c#cloud sdk\c#cloud sdk\cloud sdk v2.2\CloudDemo\bin\Debug\CloudDemo.pdb
+C:\Users\Administrator\Desktop\c#cloud sdk\c#cloud sdk\cloud sdk v2.2\CloudDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\c#cloud sdk\c#cloud sdk\cloud sdk v2.2\CloudDemo\bin\Debug\SuperSocket.Common.dll
+C:\Users\Administrator\Desktop\c#cloud sdk\c#cloud sdk\cloud sdk v2.2\CloudDemo\bin\Debug\SuperSocket.Facility.dll
+C:\Users\Administrator\Desktop\c#cloud sdk\c#cloud sdk\cloud sdk v2.2\CloudDemo\bin\Debug\SuperSocket.SocketBase.dll
+C:\Users\Administrator\Desktop\c#cloud sdk\c#cloud sdk\cloud sdk v2.2\CloudDemo\bin\Debug\SuperSocket.SocketEngine.dll
+C:\Users\Administrator\Desktop\c#cloud sdk\c#cloud sdk\cloud sdk v2.2\CloudDemo\bin\Debug\SuperWebSocket.dll
+C:\Users\Administrator\Desktop\c#cloud sdk\c#cloud sdk\cloud sdk v2.2\CloudDemo\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Desktop\c#cloud sdk\c#cloud sdk\cloud sdk v2.2\CloudDemo\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\c#cloud sdk\c#cloud sdk\cloud sdk v2.2\CloudDemo\obj\x86\Debug\CloudDemo.ProjectInstaller.resources
+C:\Users\Administrator\Desktop\c#cloud sdk\c#cloud sdk\cloud sdk v2.2\CloudDemo\obj\x86\Debug\CloudDemo.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\c#cloud sdk\c#cloud sdk\cloud sdk v2.2\CloudDemo\obj\x86\Debug\CloudDemo.exe
+C:\Users\Administrator\Desktop\c#cloud sdk\c#cloud sdk\cloud sdk v2.2\CloudDemo\obj\x86\Debug\CloudDemo.pdb
+C:\testdemo\c#cloud sdk\CloudDemo\bin\Debug\CloudDemo.exe.config
+C:\testdemo\c#cloud sdk\CloudDemo\bin\Debug\CloudDemo.exe
+C:\testdemo\c#cloud sdk\CloudDemo\bin\Debug\CloudDemo.pdb
+C:\testdemo\c#cloud sdk\CloudDemo\bin\Debug\Newtonsoft.Json.dll
+C:\testdemo\c#cloud sdk\CloudDemo\bin\Debug\SuperSocket.Common.dll
+C:\testdemo\c#cloud sdk\CloudDemo\bin\Debug\SuperSocket.Facility.dll
+C:\testdemo\c#cloud sdk\CloudDemo\bin\Debug\SuperSocket.SocketBase.dll
+C:\testdemo\c#cloud sdk\CloudDemo\bin\Debug\SuperSocket.SocketEngine.dll
+C:\testdemo\c#cloud sdk\CloudDemo\bin\Debug\SuperWebSocket.dll
+C:\testdemo\c#cloud sdk\CloudDemo\bin\Debug\System.Data.SQLite.dll
+C:\testdemo\c#cloud sdk\CloudDemo\bin\Debug\log4net.dll
+C:\testdemo\c#cloud sdk\CloudDemo\obj\x86\Debug\CloudDemo.csprojResolveAssemblyReference.cache
+C:\testdemo\c#cloud sdk\CloudDemo\obj\x86\Debug\CloudDemo.ProjectInstaller.resources
+C:\testdemo\c#cloud sdk\CloudDemo\obj\x86\Debug\CloudDemo.csproj.GenerateResource.Cache
+C:\testdemo\c#cloud sdk\CloudDemo\obj\x86\Debug\CloudDemo.exe
+C:\testdemo\c#cloud sdk\CloudDemo\obj\x86\Debug\CloudDemo.pdb
+D:\workspaces\together\CloudDemo\bin\Debug\CloudDemo.exe.config
+D:\workspaces\together\CloudDemo\bin\Debug\CloudDemo.exe
+D:\workspaces\together\CloudDemo\bin\Debug\CloudDemo.pdb
+D:\workspaces\together\CloudDemo\bin\Debug\Newtonsoft.Json.dll
+D:\workspaces\together\CloudDemo\bin\Debug\SuperSocket.Common.dll
+D:\workspaces\together\CloudDemo\bin\Debug\SuperSocket.Facility.dll
+D:\workspaces\together\CloudDemo\bin\Debug\SuperSocket.SocketBase.dll
+D:\workspaces\together\CloudDemo\bin\Debug\SuperSocket.SocketEngine.dll
+D:\workspaces\together\CloudDemo\bin\Debug\SuperWebSocket.dll
+D:\workspaces\together\CloudDemo\bin\Debug\System.Data.SQLite.dll
+D:\workspaces\together\CloudDemo\bin\Debug\log4net.dll
+D:\workspaces\together\CloudDemo\obj\x86\Debug\CloudDemo.csproj.AssemblyReference.cache
+D:\workspaces\together\CloudDemo\obj\x86\Debug\CloudDemo.ProjectInstaller.resources
+D:\workspaces\together\CloudDemo\obj\x86\Debug\CloudDemo.csproj.GenerateResource.cache
+D:\workspaces\together\CloudDemo\obj\x86\Debug\CloudDemo.csproj.CoreCompileInputs.cache
+D:\workspaces\together\CloudDemo\obj\x86\Debug\CloudDemo.csproj.CopyComplete
+D:\workspaces\together\CloudDemo\obj\x86\Debug\CloudDemo.exe
+D:\workspaces\together\CloudDemo\obj\x86\Debug\CloudDemo.pdb

@@ -1,0 +1,17 @@
+C:\Users\chingzou\Desktop\YunAtt.ETDemo\bin\Release\localhost.pfx
+C:\Users\chingzou\Desktop\YunAtt.ETDemo\bin\Release\YunAtt.ETDemo.exe.config
+C:\Users\chingzou\Desktop\YunAtt.ETDemo\bin\Release\YunAtt.ETDemo.exe
+C:\Users\chingzou\Desktop\YunAtt.ETDemo\bin\Release\YunAtt.ETDemo.pdb
+C:\Users\chingzou\Desktop\YunAtt.ETDemo\bin\Release\Newtonsoft.Json.dll
+C:\Users\chingzou\Desktop\YunAtt.ETDemo\bin\Release\SuperSocket.Common.dll
+C:\Users\chingzou\Desktop\YunAtt.ETDemo\bin\Release\SuperSocket.Facility.dll
+C:\Users\chingzou\Desktop\YunAtt.ETDemo\bin\Release\SuperSocket.SocketBase.dll
+C:\Users\chingzou\Desktop\YunAtt.ETDemo\bin\Release\SuperSocket.SocketEngine.dll
+C:\Users\chingzou\Desktop\YunAtt.ETDemo\bin\Release\SuperWebSocket.dll
+C:\Users\chingzou\Desktop\YunAtt.ETDemo\bin\Release\System.Data.SQLite.dll
+C:\Users\chingzou\Desktop\YunAtt.ETDemo\bin\Release\log4net.dll
+C:\Users\chingzou\Desktop\YunAtt.ETDemo\obj\x86\Release\YunAtt.ETDemo.csprojResolveAssemblyReference.cache
+C:\Users\chingzou\Desktop\YunAtt.ETDemo\obj\x86\Release\YunAtt.ET.ProjectInstaller.resources
+C:\Users\chingzou\Desktop\YunAtt.ETDemo\obj\x86\Release\YunAtt.ETDemo.csproj.GenerateResource.Cache
+C:\Users\chingzou\Desktop\YunAtt.ETDemo\obj\x86\Release\YunAtt.ETDemo.exe
+C:\Users\chingzou\Desktop\YunAtt.ETDemo\obj\x86\Release\YunAtt.ETDemo.pdb

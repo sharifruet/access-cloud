@@ -1,0 +1,5 @@
+---- adduser Matches (4 in 2 files) ----
+CloudDemo.Program.RunAsConsole in Program.cs :                         case "adduser":
+CloudDemo.Program.RunAsConsole in Program.cs :                             WebSocketLoader.adduser(WebSocketLoader.g_now_sn,888,11,0,"chingzou");
+CloudDemo.WebSocketLoader in WebSocketLoader.cs :         public static void adduser(string sn, int enrollid, int backupnum, int admin, string username)
+CloudDemo.WebSocketLoader.adduser in WebSocketLoader.cs :             cmdstring = "{\"cmd\":\"adduser\",\"enrollid\":" + enrollid + ",\"backupnum\":" + backupnum + ",\"admin\":" + admin + ",\"name\":\"" + usernameutf8 + "\"}";
